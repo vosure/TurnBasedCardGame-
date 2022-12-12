@@ -1,12 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using Data.StaticData;
 using Data.StaticData.BoardSettings;
 using Data.StaticData.CardEffects;
 using Data.StaticData.Characters;
 using Data.StaticData.Windows;
 using Infrastructure.AssetManagement;
-using UnityEditor.PackageManager.UI;
 using UnityEngine;
 
 namespace Infrastructure.StaticData
