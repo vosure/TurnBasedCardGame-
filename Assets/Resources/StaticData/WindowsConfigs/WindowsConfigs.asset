@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa611b5dcb7e4d8da8e459bdbf7e7956, type: 3}
+  m_Name: WindowsConfigs
+  m_EditorClassIdentifier: 
+  Configs:
+  - Name: HUD
+    WindowId: 0
+    Prefab: {fileID: 3345069301854563754, guid: 87bcf22110f351945b263176e300d5fd, type: 3}
+  - Name: Win Window
+    WindowId: 1
+    Prefab: {fileID: 4155878449378407163, guid: 1e85a480a1493da49a1a5d6d93cc3363, type: 3}
+  - Name: Lose Window
+    WindowId: 2
+    Prefab: {fileID: 1102009153764268211, guid: 38b4f34f4bd12ef4eaa185905ad843ec, type: 3}
